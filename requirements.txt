@@ -1,0 +1,38 @@
+ipykernel 
+numpy
+pandas[performance]
+matplotlib
+seaborn
+folium
+# geopandas == "^0.10.2"
+# geovoronoi
+# uszipcode
+shapely
+# wheel
+# polyline
+# gdal
+# osgeo
+# networkx
+# osmnx
+# googlemaps
+scikit-learn
+# borutapy
+# geopy
+# ipywidgets
+# parallel-pandas
+# modin[all]
+# unidecode
+# plotly
+# geemap
+contextily
+
+# torch 
+
+# utils
+# cutnorm
+scikit-mobility
+networkx
+tqdm
+
+#extras
+# fiona
